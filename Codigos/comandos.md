@@ -18,7 +18,7 @@
 
 * git push origin master
 
-* Aula de conflitos
+* git pull (puxar o repositorio do git)
 
   
   
